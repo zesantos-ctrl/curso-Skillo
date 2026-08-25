@@ -1,18 +1,19 @@
-## Getting Started
+# Curso Full Stack — Cesmar Skillo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório dedicado ao armazenamento dos projetos, exercícios e anotações desenvolvidos ao longo do curso **Full Stack no Cesmar Skillo**.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Módulos & Aprendizados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Lógica de Programação
+- **Linguagem base:** JavaScript
+- **Material de apoio:** Cursos e conteúdos da plataforma **Alura**
+- **Conceitos trabalhados:** Estruturas de controle, condicionais, loops, funções e manipulação de dados.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Desenvolvimento Backend com Java
+- **Linguagem base:** Java
+- **Foco:** Aprofundamento nos conceitos da linguagem, Programação Orientada a Objetos (POO) e arquitetura de software.
+- **Ecossistema & Frameworks:** Spring Boot, APIs RESTful, persitência de dados e boas práticas de desenvolvimento backend.
